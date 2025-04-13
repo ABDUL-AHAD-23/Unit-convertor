@@ -43,6 +43,6 @@ This is a **simple and beginner-friendly Unit Converter** built using Python. It
 ## ▶️ How to Run
 
 ```bash
-python unit_converter.py
+python 
 streamlit run unit_converter.py
 
